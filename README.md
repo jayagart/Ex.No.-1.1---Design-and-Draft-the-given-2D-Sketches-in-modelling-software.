@@ -1,5 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+# Name: Jayagar.T
+# Reg.No: 212224220042
+# Date: 05-02-2026
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
